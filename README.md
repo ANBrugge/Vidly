@@ -1,7 +1,7 @@
 # Vidly
 
 - Practise project taken from Mosh Hamedani's course "The Complete ASP.NET MVC 5 Course".
-- Web application for a fictitious online video rental service.
+- Web application for a fictitious video rental service.
 
 ## WIP
 
